@@ -10,3 +10,12 @@ all_movies = movies_data[["original_title","poster_link","release_date","runtime
 liked_movies = []
 not_liked_movies = []
 did_not_watch = []
+
+
+
+
+
+
+
+if __name__ == "__main__":
+  app.run()
